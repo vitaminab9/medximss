@@ -1,1 +1,4 @@
 # medximss
+captopril
+losartan
+clortalidona
