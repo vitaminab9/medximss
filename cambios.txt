@@ -3,3 +3,5 @@ quiero subir esto a git
 voy a ver si este cambio se registra en github
 
 cambio en tercera linea
+
+dragon.png 
