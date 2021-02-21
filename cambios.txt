@@ -5,3 +5,5 @@ voy a ver si este cambio se registra en github
 cambio en tercera linea
 
 dragon.png 
+
+corrijo un error ortográfico
